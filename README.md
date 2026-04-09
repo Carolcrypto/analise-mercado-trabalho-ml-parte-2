@@ -1,2 +1,21 @@
-# analise-mercado-trabalho-ml-parte-2
-Continuação do projeto de análise de mercado de trabalho, com foco em modelagem preditiva utilizando técnicas de Machine Learning para geração de insights e previsões.
+# 📊 Análise de Mercado de Trabalho - Parte II (Machine Learning)
+
+## 🎯 Objetivo
+Aplicar modelos de Machine Learning para prever tendências do mercado de trabalho com base nos dados analisados na Parte I.
+
+## 🔍 Etapas
+- Preparação dos dados
+- Feature Engineering
+- Treinamento de modelos
+- Avaliação de desempenho
+
+## 🤖 Modelos utilizados
+- Regressão Linear
+- Random Forest
+- XGBoost
+
+## 📈 Resultados
+Resumo dos principais insights obtidos.
+
+## 🔗 Parte I
+Link para o repositório anterior
